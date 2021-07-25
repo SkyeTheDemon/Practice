@@ -6,7 +6,7 @@ import java.util.Scanner;
 //Imports the Scanner class
 
 public class Main {
-    public static void Main(String[] args) 
+    public static void main(String[] args)
     {
         int number = 0;
         Scanner scanner = new Scanner(System.in);
